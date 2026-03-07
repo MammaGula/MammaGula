@@ -7,7 +7,7 @@ Loves clean code, calm design, .NET ecosystem, and maintainable architecture.
 
 ## 🌱 About Me
 I enjoy building systems that are simple, structured, and purposeful.  
-Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture.
+Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 
 ---
 
