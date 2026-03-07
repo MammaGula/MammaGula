@@ -18,7 +18,7 @@ Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 
 ---
 
-## 🍬 Tech Stack (mint edition)
+## 🍬 Tech Stack 
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-a8e6cf?logo=csharp&logoColor=white&style=flat-square" />
