@@ -11,6 +11,12 @@ Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture
 
 ---
 
+## 🌊 Fun Facts About Me
+- I’m finally doing what I never dared to do before — and it feels like home.
+
+
+---
+
 ## 🍬 Tech Stack (mint edition)
 
 <p align="left">
@@ -37,6 +43,6 @@ Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture
 ---
 
 ## 💌 Contact
-LinkedIn: *add your link here*  
+LinkedIn: 
 Email: 
 
