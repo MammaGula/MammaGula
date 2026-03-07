@@ -1,26 +1,25 @@
-# Supaphit Ruengsri
+# 🍃 Supaphit Ruengsri
 
 Systems Development Student @ Newton, Malmö  
-Loves clean code, calm design, .NET ecosystem, and clean, maintainable architecture.
+Loves clean code, calm design, .NET ecosystem, and maintainable architecture.
 
 ---
 
-## 🧩 About Me
+## 🌱 About Me
 I enjoy building systems that are simple, structured, and purposeful.  
 Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture.
 
-
 ---
 
-## 🛠 Tech Stack
+## 🍬 Tech Stack (mint edition)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?logo=dotnet&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EF_Core-6DB33F?logo=nuget&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-a8e6cf?logo=csharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/.NET-81c784?logo=dotnet&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-66bb6a?logo=dotnet&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/EF_Core-b2dfdb?logo=nuget&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL_Server-80cbc4?logo=microsoftsqlserver&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Blazor-a5d6a7?logo=blazor&logoColor=white&style=flat-square" />
 </p>
 
 ---
@@ -34,8 +33,6 @@ Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture
 
 ---
 
-
-
-## 📫 Contact
+## 💌 Contact
 LinkedIn: *add your link here*  
-Email: *add your email here*
+Email: 
