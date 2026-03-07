@@ -27,9 +27,11 @@ Currently diving deeper into C#, ASP.NET Core, EF Core, and backend architecture
 ## 🌿 GitHub Overview
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MammaGula&show_icons=true&hide_title=true&hide_border=true&theme=calm" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MammaGula&layout=compact&hide_border=true&theme=calm" />
+  <img height="160" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=MammaGula&show_icons=true&hide_title=true&hide_border=true&theme=ocean_dark" />
+  <img height="160" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=MammaGula&layout=compact&hide_border=true&theme=ocean_dark" />
 </p>
+
+
 
 ---
 
