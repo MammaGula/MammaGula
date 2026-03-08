@@ -2,7 +2,6 @@
 
 Systems Development Student @ Newton, Malmö  
 Loves clean code, calm design, .NET ecosystem, and maintainable architecture.
-- A developer with an engineering-inspired mindset
 
 ---
 
