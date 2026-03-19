@@ -44,6 +44,8 @@ Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 ---
 
 ## 💌 Contact
-LinkedIn: 
-Email: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a8e6cf?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supaphit-ruengsri-ab1b41200/)
+[![Email](https://img.shields.io/badge/Email-b2dfdb?style=flat-square&logo=gmail&logoColor=white)](mailto:supaphit.ruengsri@edu.newton.se)
+
+
 
