@@ -3,7 +3,7 @@
 Systems Development Student @ Newton, Malmö  
 Loves clean code, calm design, .NET ecosystem, and maintainable architecture.
 
-I’m a person who wants to blend engineering fundamentals, systematic architectural thinking, and the rapid capabilities of AI to craft work that is both purposeful and beautifully designed.
+I’m someone who seeks to unite engineering fundamentals, systematic architecture, and the fast‑moving capabilities of AI to create work that is robust, scalable, and thoughtfully designed.
 
 ---
 
