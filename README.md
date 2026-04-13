@@ -22,16 +22,34 @@ Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 ## 🍬 Tech Stack 
 
 <p align="left">
+
 <!-- Backend -->
-<img src="https://img.shields.io/badge/C%23-a8e6cf?logo=csharp&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/.NET-81c784?logo=dotnet&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Web_API-80cbc4?logo=dotnet&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/MVC-b2dfdb?logo=dotnet&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Razor-a5d6a7?logo=dotnet&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Blazor-81c784?logo=blazor&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/C%23-a8e6cf?logo=csharp&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/.NET-81c784?logo=dotnet&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Web_API-80cbc4?logo=dotnet&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/MVC-b2dfdb?logo=dotnet&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Razor-a5d6a7?logo=dotnet&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Blazor-81c784?logo=blazor&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 <!-- Desktop -->
-<img src="https://img.shields.io/badge/WPF-a8e6cf?logo=windows&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/WPF-a8e6cf?logo=windows&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 <!-- Database -->
-<img src="https://img.shields.io/badge/SQL_Server-80cbc4?logo=microsoftsqlserver&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/MongoDB-a5d6a7?logo=mongodb&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/SQL_Server-80cbc4?logo=microsoftsqlserver&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/MongoDB-a5d6a7?logo=mongodb&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-ffccbc?logo=html5&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/CSS3-ffab91?logo=css3&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/JavaScript-ffe082?logo=javascript&logoColor=black&style=flat-square" /><img src="https://img.shields.io/badge/React-80deea?logo=react&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Figma-b39ddb?logo=figma&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/HTML5-ffccbc?logo=html5&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/CSS3-ffab91?logo=css3&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/JavaScript-ffe082?logo=javascript&logoColor=black&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/React-80deea?logo=react&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Figma-b39ddb?logo=figma&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 <!-- Testing -->
-<img src="https://img.shields.io/badge/xUnit-90caf9?logo=xunit&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Integration_Testing-64b5f6?style=flat-square" /><img src="https://img.shields.io/badge/Playwright_E2E-4fc3f7?logo=playwright&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/xUnit-90caf9?logo=xunit&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Integration_Testing-64b5f6?style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Playwright_E2E-4fc3f7?logo=playwright&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 </p>
 
 ---
