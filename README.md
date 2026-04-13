@@ -43,6 +43,7 @@ Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 <img src="https://img.shields.io/badge/CSS3-ffab91?logo=css3&logoColor=white&style=flat-square" style="margin: 4px;" />
 <img src="https://img.shields.io/badge/JavaScript-ffe082?logo=javascript&logoColor=black&style=flat-square" style="margin: 4px;" />
 <img src="https://img.shields.io/badge/React-80deea?logo=react&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Bootstrap-9575cd?logo=bootstrap&logoColor=white&style=flat-square" style="margin: 4px;" />
 <img src="https://img.shields.io/badge/Figma-b39ddb?logo=figma&logoColor=white&style=flat-square" style="margin: 4px;" />
 
 <!-- Testing -->
