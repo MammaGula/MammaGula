@@ -46,6 +46,10 @@ Currently diving deeper into C#, ASP.NET, EF Core, and backend architecture.
 <img src="https://img.shields.io/badge/Bootstrap-9575cd?logo=bootstrap&logoColor=white&style=flat-square" style="margin: 4px;" />
 <img src="https://img.shields.io/badge/Figma-b39ddb?logo=figma&logoColor=white&style=flat-square" style="margin: 4px;" />
 
+<!-- API Tools -->
+<img src="https://img.shields.io/badge/SwaggerUI-a5d6a7?logo=swagger&logoColor=white&style=flat-square" style="margin: 4px;" />
+<img src="https://img.shields.io/badge/Postman-ffab91?logo=postman&logoColor=white&style=flat-square" style="margin: 4px;" />
+
 <!-- Testing -->
 <img src="https://img.shields.io/badge/xUnit-90caf9?logo=xunit&logoColor=white&style=flat-square" style="margin: 4px;" />
 <img src="https://img.shields.io/badge/Integration_Testing-64b5f6?style=flat-square" style="margin: 4px;" />
